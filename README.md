@@ -1,7 +1,7 @@
 # StampCal - 切手マッチング計算機
 
 <p align="center">
-  <img src="StampCal.png" alt="StampCal Icon" width="120" height="120">
+  <img src="docs/app-icon.png" alt="StampCal Icon" width="120" height="120">
 </p>
 
 <p align="center">
@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-  <!-- App Store link will be added after release -->
-  <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="50">
+  <a href="https://apps.apple.com/jp/app/%E5%88%87%E6%89%8B%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E8%A8%88%E7%AE%97%E6%A9%9F-%E6%9C%80%E9%81%A9%E3%81%AA%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%82%92%E7%9E%AC%E6%99%82%E3%81%AB/id6751178996">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="50">
+  </a>
 </p>
 
 ## 📱 概要 / Overview
