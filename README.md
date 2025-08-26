@@ -1,7 +1,7 @@
 # StampCal - 切手マッチング計算機
 
 <p align="center">
-  <img src="docs/StampCal.png" alt="StampCal Icon" width="120" height="120">
+  <img src="StampCal.png" alt="StampCal Icon" width="120" height="120">
 </p>
 
 <p align="center">
